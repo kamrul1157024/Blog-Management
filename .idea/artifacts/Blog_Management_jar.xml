@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Blog Management:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Blog_Management_jar</output-path>
+    <root id="archive" name="Blog Management.jar">
+      <element id="module-output" name="Blog Management" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/org.eclipse.egit.github.core-2.1.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/gson-2.8.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
